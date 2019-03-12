@@ -11,3 +11,5 @@ public static void main(String[] args) {
 //System.out.println("Howdy yall");
 }
 }
+Scanner sc = new Scanner (System.in)
+sc.NextInt(0;
