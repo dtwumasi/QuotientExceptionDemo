@@ -1,5 +1,6 @@
 public class QuotientExceptionDemo
 {
+  import java.util.Scanner;
 public static void quotient(int num, int den)
 {
   int answer = num / den;
