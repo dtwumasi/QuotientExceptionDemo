@@ -1,4 +1,10 @@
 public class QuotientExceptionDemo
+{
+public static void quotient(int num, int den)
+{
+  int answer = num / den;
+  System.out.println(num + " / " + dem + " = " + answer);
+}
 
 public static void main(String[] args) {
 //System.out.println("Howdy yall");
